@@ -7,7 +7,7 @@ This go project queries the Tidepool data apis to retrieve credentials and test 
 
 Usage:
 1. Download or Clone the project.
-2. In your command line tool issue go build.
+2. In your command line tool cd to the project and issue go build.
 3. Enter tidepoolreport or ./tidepoolreport if not using windoze.
 4. Go to localhost:3000, fill in the options - you must have a regular tidepool account-, optionally select a date range and only select the SMBG type.
 5. Submit the form and the pdf should appear with blinding speed. :)
