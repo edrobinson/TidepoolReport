@@ -14,4 +14,4 @@ Usage:
 
 As presented, this project queries the Tidepool development servers. 
 
- 
+Samples of the data received and the PDF generated are included. 
