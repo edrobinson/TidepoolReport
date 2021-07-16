@@ -1,0 +1,89 @@
+    .footer {
+      padding-top: 20px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      /* Set the fixed height of the footer here */
+      height: 60px;
+      font-size: 10px;
+      text-align: center;
+    }
+     /* Main Form Styling - Alter with local style */ 
+    #formdiv{
+	  display: inline-block;
+	  margin-left: 25%;
+	  margin-top: 10%;
+
+	  width: 50%; 
+	  border:2px solid gray;
+	  border-radius: 5px;
+	  padding: 15px;
+    }
+
+    body{
+          background-color: #DDDDDD;
+    }
+ 
+      
+      .table-sm tr,
+      .table-sm th,
+      .table-sm td {
+        font-size: 10px;
+        padding: 0px;
+        padding-left: 10px;
+        vertical-align: middle;
+    }
+    
+    .table td select{ 
+      height: 20px;
+        font-size: 10px;
+      vertical-align: middle;
+        padding: 0px;
+        padding-left: 10px;
+        
+      }
+      
+     .myckbox, .togglecb{
+           vertical-align: middle;
+            position:relative;
+     }
+     
+     .form-check-input{margin-left: 10px;}
+     
+    .formc { margin: 0 auto; }
+    .form_main {
+    width: 40%;
+    left: 55%;
+    top: 75%;
+    margin-left: -25%;
+    position: absolute;
+    margin-top: -25%;
+    padding: 25px;
+    padding-left: 0px;
+    }
+    
+    .form-actions {        
+    margin: 0;
+    background-color: transparent;
+    text-align: center;}
+    
+    label {
+    font-weight: bold;
+    display: inline-block;
+    width: 150px;
+    text-align: right;}
+    
+    #selectsp{padding-left: 15px;}
+    
+    #uploader{ 
+        height: 50px;
+        width: 100%;
+        margin-left: 20%;
+        border: 1-x solid black;
+
+    }    
+    #btn_uploadfile{
+        height: 30px;
+        padding-bottom: 5px;
+    }
+    .sqcorner{border-radius: 0 !important;}    
